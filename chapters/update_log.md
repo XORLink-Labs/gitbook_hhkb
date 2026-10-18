@@ -1,4 +1,8 @@
 # 更新记录
+> 20261012
+
+    HHKB Pro2/BT/Classic/Hybrid 固件版本 V2.0.0
+
 > 20260911
 
     HHKB Pro2/BT/Classic/Hybrid 固件版本 V1.9.1
