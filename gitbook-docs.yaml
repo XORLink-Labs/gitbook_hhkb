@@ -1,0 +1,11 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: HHKB Quad Mode Controller Introduction
+  structure:
+    - type: space
+      key: space-1
+      title: HHKB Quad Mode Controller Introduction
+      path: hhkb-dual-mode-controller
+      default: true
+      content:
+        directory: ./hhkb-dual-mode-controller
