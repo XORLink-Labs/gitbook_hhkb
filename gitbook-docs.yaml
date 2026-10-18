@@ -5,7 +5,7 @@ site:
     - type: space
       key: space-1
       title: HHKB Quad Mode Controller Introduction
-      path: hhkb-dual-mode-controller
+      path: /
       default: true
       content:
-        directory: ./hhkb-dual-mode-controller
+        directory: ./
