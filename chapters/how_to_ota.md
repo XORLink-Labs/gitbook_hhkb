@@ -3,7 +3,9 @@
 OTA (Over The Air Programming)，空中升级，即通过无线传输的方式对设备进行固件升级。我们的键盘控制器采用这种方式进行固件更新。下面介绍具体操作流程。
 
 ## 如何获取最新固件
-**For international users, please visit this [GitHub repository](https://github.com/XORLink-Labs/keyboard-firmware) to download the latest firmware.**
+[![GitHub Release](https://img.shields.io/github/v/release/XORLink-Labs/keyboard-firmware)](https://github.com/XORLink-Labs/keyboard-firmware/releases/latest)
+
+**For international users, please visit this [GitHub repository](https://github.com/XORLink-Labs/keyboard-firmware) to download the [latest firmware](https://github.com/XORLink-Labs/keyboard-firmware/releases/latest).**
 
 关注微信公众号 `XORLink`，回复消息 “固件” 二字即可获取最新固件下载链接。
 

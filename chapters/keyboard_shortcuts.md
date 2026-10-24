@@ -5,7 +5,7 @@
 :--:|:--:|:--:
 Fn + 右 Alt + T|短按|进入 OTA 模式
 Fn + 右 Alt + U|短按|切换为 USB 输入
-Fn + 右 Alt + B|短按|切换为蓝牙或优联输入
+Fn + 右 Alt + B|短按|切换为无线（BLE or Bolt or Unifying）输入
 Fn + 右 Alt + S|短按|键盘进入深度睡眠模式 
 Fn + 右 Alt + Z|短按|清空无线配对信息 
 Fn + 右 Alt + V|短按|打印当前固件版本 
